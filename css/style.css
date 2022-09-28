@@ -108,10 +108,10 @@ footer{
 /* Step 1: Write selector/rule property to add an underline when
 links in the navigation are in the hover or focus state.*/
 
-nav li:hover, :focus{
+li:hover, :focus{
   text-decoration: underline;
 }
-nav li:focus{
+li:focus{
   text-decoration: underline;
 }
 
